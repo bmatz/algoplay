@@ -1,0 +1,16 @@
+{
+    "name": "algoplay",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Bernhard Matz <bernhard@trigo.at>",
+    "license": "MIT",
+    "scripts": {
+        "test": "jest",
+        "test:watch": "jest --watch"
+    },
+    "devDependencies": {
+        "eslint-config-trigo": "^4.3.1",
+        "jest": "^22.0.4",
+        "ramda": "^0.25.0"
+    }
+}
